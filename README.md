@@ -12,6 +12,8 @@
 <br>
 <br>
 
+- 📝 Blogs https://www.mehmetyeni.com.tr/
+  
 - 🔭 I’m currently working on **Backend projects**
 
 - 🌱 I’m currently learning **Cloud Computing System**
@@ -42,7 +44,7 @@
 
 ###
 
-<h3 align="left">Languages and Technologies:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
