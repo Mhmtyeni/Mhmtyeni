@@ -8,8 +8,13 @@
 
 
 ###
+- 🔭 I’m currently working on **Backend projects**
 
-<p align="left">🔭I'm currently working on API projects<br><br>📫 How to reach me mhmtyeni@gmail.com</p>
+- 🌱 I’m currently learning **Cloud Computing System**
+
+- 📫 How to reach me **mhmtyeni@gmail.com**
+
+
 
 ###
 
@@ -65,8 +70,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhmtyeni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+<div align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mhmtyeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="175" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Mhmtyeni&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mhmtyeni&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
