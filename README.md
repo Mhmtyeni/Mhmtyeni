@@ -4,24 +4,25 @@
 
 <h3 align="center">A passionate Software Developer at Vestel</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtyeni&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetyeni" /> </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
-
+<br>
 
 ###
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
+<br>
+<br>
 - 🔭 I’m currently working on **Backend projects**
 
 - 🌱 I’m currently learning **Cloud Computing System**
 
 - 📫 How to reach me **mhmtyeni@gmail.com**
 
-<br>
-<br>
-<br>
-<br>
-
 
 ###
-
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 
 ###
