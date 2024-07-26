@@ -1,4 +1,11 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=00A450&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I%27m+Mehmet+Yeni!;" />
+</h1>
+
 <h3 align="center">A passionate Software Developer at Vestel</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmtyeni&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetyeni" /> </p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
+
 
 ###
 
