@@ -11,6 +11,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
 <br>
 <br>
+
 - 🔭 I’m currently working on **Backend projects**
 
 - 🌱 I’m currently learning **Cloud Computing System**
@@ -31,17 +32,11 @@
   <a href="https://www.linkedin.com/in/mehmet-yeni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="90" height="75" alt="linkedin logo"  />
   </a>
-  <a href="www.x.com/mhmtyeni" target="_blank">
+  <a href="https://www.x.com/mhmtyeni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="90" height="75" alt="twitter logo"  />
   </a>
-  <a href="mhmtyeni@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="75" alt="gmail logo"  />
-  </a>
-  <a href="www.instagram.com/mhmtyeni" target="_blank">
+  <a href="https://www.instagram.com/mhmtyeni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="90" height="75" alt="instagram logo"  />
-  </a>
-  <a href="mehmetyen@vestel.com.tr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/visualstudio/default.svg" width="90" height="75" alt="visualstudio logo"  />
   </a>
 </div>
 
