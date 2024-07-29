@@ -8,14 +8,17 @@
 
 ###
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
+
 <br>
+<br>
+                                                                <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtkcWU1YmpnbXVsMWxlNTJoanZ4NzBjaHhxYTFqa2dtNnZnNnBseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300px" align="right" alt="">
+
 <br>
 
-- 📝 Blogs https://www.mehmetyeni.com.tr/
+- 📝 Blogs https://www.mehmetyeni.com.tr/ 
   
-- 🔭 I’m currently working on **Backend projects**
-
+- 🔭 I’m currently working on **Backend projects** 
+                                                                                                                                                                                                        
 - 🌱 I’m currently learning **Cloud Computing System**
 
 - 📫 How to reach me **mhmtyeni@gmail.com**
